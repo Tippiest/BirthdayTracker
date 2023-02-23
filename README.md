@@ -4,4 +4,6 @@ A web application that keeps track of birthdays by storing them in an SQL databa
 
 To Run:
 
-Run command flask run.
+Run command:
+
+>> flask run
